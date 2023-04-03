@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(70, 142, 236);
+    font: normal 18pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+
+}
+h1{
+    font: bolder 1.5em Arial;
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif; 
+}
+div#res{
+    font-size: 16pt;
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+
+}
+input#bot{
+    font: bold 14pt 'Times New Roman', Times, serif;
+    padding: 2px;
+}
+footer{
+    color: white;
+    text-align: center;
+    
+    font: bolder 20pt Arial;
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif;
+
+}
