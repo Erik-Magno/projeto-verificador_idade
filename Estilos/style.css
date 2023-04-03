@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body{
-    background-color: rgb(70, 142, 236);
+    background-color: rgb(17, 154, 172);
     font: normal 18pt Arial;
 }
 header{
@@ -9,7 +9,7 @@ header{
 
 }
 h1{
-    font: bolder 1.5em Arial;
+    font: bolder 1.8em Arial;
     font-variant: small-caps;
     font-family: 'Times New Roman', Times, serif; 
 }
@@ -18,7 +18,7 @@ div#res{
     text-align: center;
 }
 section{
-    background-color: white;
+    background-color: rgb(224, 223, 223);
     border-radius: 10px;
     padding: 15px;
     width: 500px;
